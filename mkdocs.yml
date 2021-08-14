@@ -3,7 +3,7 @@ theme:
   name: material
   language: fr
   favicon: images/favicon.png
-  logo: assets/logo.png
+  logo: assets/mon-oral.svg
   palette:
     primary: white
     accent: green
