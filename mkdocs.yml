@@ -1,4 +1,4 @@
-site_name: mon-oral.net
+site_name:
 theme:
   name: material
   custom_dir: overrides
