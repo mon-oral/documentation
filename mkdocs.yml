@@ -2,12 +2,18 @@ site_name: mon-oral.net
 theme:
   name: material
   language: fr
-  favicon: images/favicon.png
-  logo: assets/mon-oral.svg
+  favicon: images/mon-oral.svg
+  logo: images/mon-oral.svg
   palette:
     primary: white
     accent: green
+  icon:
+    repo: fontawesome/brands/git-alt
 extra_css:
   - stylesheets/extra.css
 extra_javascript:
   - javascripts/extra.js 
+extra:
+  version:
+    provider: mike
+repo_url: https://github.com/mon-oral/documentation
