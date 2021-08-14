@@ -1,4 +1,4 @@
-site_name:
+site_name: DOCUMENTATION
 theme:
   name: material
   custom_dir: overrides
