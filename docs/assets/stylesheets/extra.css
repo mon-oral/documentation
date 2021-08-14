@@ -1,0 +1,14 @@
+.md-announce {
+    background-color: #FBD825;
+    border-color: #EFCE1D;
+    overflow: auto;
+    margin:4px;
+    border-radius:4px;
+}
+
+.md-announce__inner {
+    color: #895902;
+    font-size: .7rem;
+    margin: .6rem auto;
+    padding: 0 .8rem;
+}
