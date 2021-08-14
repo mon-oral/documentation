@@ -1,6 +1,7 @@
 site_name: mon-oral.net
 theme:
   name: material
+  custom_dir: overrides
   language: fr
   favicon: assets/images/mon-oral.svg
   logo: assets/images/mon-oral.svg
