@@ -2,7 +2,8 @@
     background-color: #FBD825;
     border-color: #EFCE1D;
     overflow: auto;
-    margin:4px;
+    margin:10px;
+    text-align: center;
     border-radius:4px;
 }
 
