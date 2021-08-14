@@ -1,8 +1,12 @@
 site_name: mon-oral.net
 theme:
   name: material
+  language: fr
   favicon: images/favicon.png
   logo: assets/logo.png
+  palette:
+    primary: white
+    accent: green
 extra_css:
   - stylesheets/extra.css
 extra_javascript:
