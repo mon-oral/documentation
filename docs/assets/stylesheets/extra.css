@@ -13,3 +13,8 @@
     margin: .6rem auto;
     padding: 0 .8rem;
 }
+
+.md-header[data-md-state=shadow] {
+    /* box-shadow: 0 0 0.2rem rgb(0 0 0 / 10%), 0 0.2rem 0.4rem rgb(0 0 0 / 20%); */
+    /* transition: transform .25s cubic-bezier(.1,.7,.1,1),box-shadow .25s; */
+}
