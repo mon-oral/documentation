@@ -1,18 +1,17 @@
-.md-announce {
+/* annonce */
+.md-announce__inner {
     background-color: #FBD825;
     border-color: #EFCE1D;
     overflow: auto;
     margin:10px;
     text-align: center;
-    border-radius:4px;
-}
-
-.md-announce__inner {
+    border-radius:4px;    
     color: #d9534f;
     font-size: .7rem;
     margin: .6rem auto;
     padding: 0 .8rem;
 }
+/* / annonce */
 
 .md-header[data-md-state=shadow] {
     box-shadow: 0 0 0 rgb(0 0 0 / 10%), 0 0 0 rgb(0 0 0 / 20%);
