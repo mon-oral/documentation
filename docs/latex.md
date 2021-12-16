@@ -1,18 +1,13 @@
-♻️ *Attention, ce document est mis à jour régulièrement en fonction des remarques, des questions et de l'évolution des environnements.*
+[$\LaTeX$](https://fr.wikipedia.org/wiki/LaTeX) est, en premier lieu, un système de composition de documents mais sa syntaxe permet aussi de représenter des écritures scientifiques plus ou moins complexes (notations, équations, systèmes d'équations...).
 
-
-[LaTeX](https://fr.wikipedia.org/wiki/LaTeX) est, en premier lieu, un système de composition de documents mais sa syntaxe permet aussi de représenter des écritures scientifiques plus ou moins complexes (notations, équations, systèmes d'équations...).
-
-Le format calepin offre la possibilité d'intégrer du code LaTeX dans des cellules "texte".
-
-L'intégration et l'écriture du code LaTeX sont simples  et il est inutile de maitriser l'ensemble de l'environnement LaTeX pour pouvoir utiliser sa syntaxe. La maitrise de quelques règles suffit pour pouvoir écrire des expressions mathématiques, physiques ou chimiques.
+L'intégration et l'écriture du code $\LaTeX$ sont simples  et il est inutile de maitriser l'ensemble de l'environnement $\LaTeX$ pour pouvoir utiliser sa syntaxe. La maitrise de quelques règles suffit pour pouvoir écrire des expressions mathématiques, physiques ou chimiques.
 
 Vous trouverez ci-dessous une synthèse des éléments principaux à connaitre.
 
 
 ## 1. Déclaration du code Latex
 
-Le code LaTeX ne peut être placé que dans une cellule "texte". Deux cas se presentent. Soit on souhaite écrire une formule ou une écriture scientifique simple au sein d'une ligne de texte (présentation en ligne), soit on souhaite présenter l'écriture scientifique centrée dans un nouveau paragraphe (présentation en paragraphe).
+Deux cas se présentent. Soit on souhaite écrire une formule ou une écriture scientifique simple au sein d'une ligne de texte (présentation en ligne), soit on souhaite présenter l'écriture scientifique centrée dans un nouveau paragraphe (présentation en paragraphe).
 
 ### 1.1. Présentation en ligne
 
