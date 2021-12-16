@@ -19,8 +19,7 @@ Pour une présentation en ligne le code LaTeX doit être encadré par des `$`.
 Ceci est une formule : $F(k) = \int_{-\infty}^{\infty} f(x) e^{2\pi i k} dx$
 ```
 
-**Résultat**:
-Ceci est une formule : $F(k) = \int_{-\infty}^{+\infty} f(x) e^{2\pi i k} dx$
+> Ceci est une formule : $F(k) = \int_{-\infty}^{+\infty} f(x) e^{2\pi i k} dx$
  
 
 ### 1.2. Présentation en paragraphe
@@ -30,22 +29,22 @@ Pour une présentation en paragraphe, le code LaTeX doit être encadré part des
 
 **Exemple 1** :
 
-> ```
-> $$F(k) = \int_{-\infty}^{+\infty} f(x) e^{2\pi i k} dx$$
-> ```
-> 
+```
+$$F(k) = \int_{-\infty}^{+\infty} f(x) e^{2\pi i k} dx$$
+```
+ 
 > $$F(k) = \int_{-\infty}^{+\infty} f(x) e^{2\pi i k} dx$$
 
 **Exemple 2** :
 
-> ```
-> \begin{aligned}
-> \dot{x} & = \sigma(y-x) \\
-> \dot{y} & = \rho x - y - xz \\
-> \dot{z} & = -\beta z + xy
-> \end{aligned}
->```
-> 
+```
+\begin{aligned}
+\dot{x} & = \sigma(y-x) \\
+\dot{y} & = \rho x - y - xz \\
+\dot{z} & = -\beta z + xy
+\end{aligned}
+```
+ 
 > $$
 \begin{aligned}
 \dot{x} & = \sigma(y-x) \\
@@ -56,14 +55,14 @@ $$
 
 **Exemple 3** : 
 
-> ```
-> \begin{matrix}
-> 1&0&0\\
-> 0&1&0\\
-> 0&0&1\\
-> \end{matrix}
-> ``` 
->
+```
+\begin{matrix}
+1&0&0\\
+0&1&0\\
+0&0&1\\
+\end{matrix}
+``` 
+
 > \begin{matrix}
 1&0&0\\
 0&1&0\\
@@ -72,14 +71,14 @@ $$
 
 **Exemple 4** : 
 
-> ```
-> \begin{bmatrix}
-> 1&0&0\\
-> 0&1&0\\
-> 0&0&1\\
-> \end{bmatrix}
-> ``` 
->
+```
+\begin{bmatrix}
+1&0&0\\
+0&1&0\\
+0&0&1\\
+\end{bmatrix}
+``` 
+
 > \begin{bmatrix}
 1&0&0\\
 0&1&0\\
@@ -88,25 +87,25 @@ $$
 
 **Exemple 5** :
 
-> ```
-> \begin{equation}
-> \left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
-> \end{equation}
-> ```
->
+```
+\begin{equation}
+\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
+\end{equation}
+```
+
 > \begin{equation}
 \left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
 \end{equation}
 
 **Exemple 6** :
 
-> ```
-> \begin{eqnarray}
-> x' &=& &x \sin\phi &+& z \cos\phi \\
-> z' &=& - &x \cos\phi &+& z \sin\phi \\
-> \end{eqnarray}
->```
->
+```
+\begin{eqnarray}
+x' &=& &x \sin\phi &+& z \cos\phi \\
+z' &=& - &x \cos\phi &+& z \sin\phi \\
+\end{eqnarray}
+```
+
 > \begin{eqnarray}
 x' &=& &x \sin\phi &+& z \cos\phi \\
 z' &=& - &x \cos\phi &+& z \sin\phi \\
