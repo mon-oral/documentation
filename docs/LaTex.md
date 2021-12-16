@@ -244,6 +244,7 @@ $$\left( \frac{p}{q} \right)$$
 `$$f'(a) = \lim_{x \to a} \frac{f(x) - f(a)}{x - a}$$`
 
 **Résultat** :
+
 $$f'(a) = \lim_{x \to a} \frac{f(x) - f(a)}{x - a}$$
 
 <br />
@@ -252,6 +253,7 @@ $$f'(a) = \lim_{x \to a} \frac{f(x) - f(a)}{x - a}$$
 `$$e^x = \sum_{k=0}^{\infty} \frac{x^k}{k!}$$`
 
 **Résultat** :
+
 $$e^x = \sum_{k=0}^{\infty} \frac{x^k}{k!}$$
 
 <br />
@@ -270,6 +272,7 @@ $$
 ```
 
 **Résultat** :
+
 $$
 \begin{bmatrix}
 \frac{\partial f_1}{\partial x_1} & \cdots &
@@ -287,6 +290,7 @@ $$
 `$$K_a  = \frac{{\left[ {H^ +  } \right]\left[ {A^ -  } \right]}}{{\left[ {HA} \right]}}$$`
 
 **Résultat** :
+
 $$K_a  = \frac{{\left[ {H^ +  } \right]\left[ {A^ -  } \right]}}{{\left[ {HA} \right]}}$$
 
 <br />
@@ -295,6 +299,7 @@ $$K_a  = \frac{{\left[ {H^ +  } \right]\left[ {A^ -  } \right]}}{{\left[ {HA} \r
 `$$x = \frac {-b \pm \sqrt{b^2 -4ac}} {2a}$$`
 
 **Résultat** :
+
 $$x = \frac {-b \pm \sqrt{b^2 -4ac}} {2a},$$
 
 <br />
@@ -303,6 +308,7 @@ $$x = \frac {-b \pm \sqrt{b^2 -4ac}} {2a},$$
 `$$\left\| \frac a b \right\|$$`
 
 **Résultat** :
+
 $$\left\| \frac a b \right\|$$
 
 <br />
@@ -320,6 +326,7 @@ $$\left\| \frac a b \right\|$$
 ```
 
 **Résultat** :
+
 \begin{eqnarray}
   & f={1}/{T} \quad \omega={2\pi}/{T}=2\pi f = \sqrt{{k}/{m}} & \\
   & \left\{ \begin{array}{l}
