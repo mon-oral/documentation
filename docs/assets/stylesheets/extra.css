@@ -35,9 +35,8 @@
     border-radius: 0.1rem;
     -webkit-box-decoration-break: clone;
     box-decoration-break: clone;
-    font-size: .85em;
     padding: 0 0.2941176471em;
-    font-size: 87.5%;
+    font-size: 80%;
     color: #f66d9b;
     word-break: break-word;
     font-family: SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace;
