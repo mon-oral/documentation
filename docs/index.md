@@ -1,6 +1,6 @@
 # Sommaire
 
-* [Syntaxe LaTex](Latex)
+* [Syntaxe LaTex](Syntaxe%20LaTex/)
 
 
 
