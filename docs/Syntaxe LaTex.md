@@ -1,4 +1,4 @@
-# Syntaxe $\LaTeX$
+# Syntaxe LaTeX
 
 [$\LaTeX$](https://fr.wikipedia.org/wiki/LaTeX) est, en premier lieu, un système de composition de documents mais sa syntaxe permet aussi de représenter des écritures scientifiques plus ou moins complexes (notations, équations, systèmes d'équations...).
 
