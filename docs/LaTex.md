@@ -15,9 +15,8 @@ Pour une présentation en ligne le code LaTeX doit être encadré par des `$`.
 
 **Exemple**:
 
-`Ceci est une formule : $F(k) = \int_{-\infty}^{\infty} f(x) e^{2\pi i k} dx$`\donne 
-
-Ceci est une formule : $F(k) = \int_{-\infty}^{+\infty} f(x) e^{2\pi i k} dx$
+> `Ceci est une formule : $F(k) = \int_{-\infty}^{\infty} f(x) e^{2\pi i k} dx$` \
+> Ceci est une formule : $F(k) = \int_{-\infty}^{+\infty} f(x) e^{2\pi i k} dx$
  
 
 ### 1.2. Présentation en paragraphe
@@ -27,21 +26,20 @@ Pour une présentation en paragraphe, le code LaTeX doit être encadré part des
 
 **Exemple 1** :
 
-`$$F(k) = \int_{-\infty}^{+\infty} f(x) e^{2\pi i k} dx$$` donne :
-$$F(k) = \int_{-\infty}^{+\infty} f(x) e^{2\pi i k} dx$$
+> `$$F(k) = \int_{-\infty}^{+\infty} f(x) e^{2\pi i k} dx$$` \
+> $$F(k) = \int_{-\infty}^{+\infty} f(x) e^{2\pi i k} dx$$
 
 **Exemple 2** :
 
-```
-\begin{aligned}
-\dot{x} & = \sigma(y-x) \\
-\dot{y} & = \rho x - y - xz \\
-\dot{z} & = -\beta z + xy
-\end{aligned}
-```
-donne
-
-$$
+> ```
+> \begin{aligned}
+> \dot{x} & = \sigma(y-x) \\
+> \dot{y} & = \rho x - y - xz \\
+> \dot{z} & = -\beta z + xy
+> \end{aligned}
+>```
+> 
+> $$
 \begin{aligned}
 \dot{x} & = \sigma(y-x) \\
 \dot{y} & = \rho x - y - xz \\
