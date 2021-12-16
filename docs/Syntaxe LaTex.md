@@ -318,7 +318,6 @@ $$e^x = \sum_{k=0}^{\infty} \frac{x^k}{k!}$$
 
 **Exemple**:
 ```
-$$
 \begin{bmatrix}
 \frac{\partial f_1}{\partial x_1} & \cdots &
 \frac{\partial f_1}{\partial x_n} \\
@@ -326,18 +325,15 @@ $$
 \frac{\partial f_m}{\partial x_1} & \cdots &
 \frac{\partial f_m}{\partial x_n}
 \end{bmatrix}
-$$
 ```
 
-> $$
-\begin{bmatrix}
+> \begin{bmatrix}
 \frac{\partial f_1}{\partial x_1} & \cdots &
 \frac{\partial f_1}{\partial x_n} \\
 \vdots & \ddots & \vdots \\
 \frac{\partial f_m}{\partial x_1} & \cdots &
 \frac{\partial f_m}{\partial x_n}
 \end{bmatrix}
-$$
 
 <br />
 
