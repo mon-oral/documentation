@@ -232,6 +232,34 @@ Vous pouvez aussi consulter cette [page](http://ftp.ktug.org/tex-archive/info/un
 ## 3. Autres exemples
 
 **Exemple** :
+
+```\begin{pmatrix}
+a & b \\ c & d
+\end{pmatrix}```
+
+**Résultat** :
+ 
+\begin{pmatrix}
+a & b \\ c & d
+\end{pmatrix}
+
+<br />
+
+**Exemple** :
+
+```\begin{bmatrix}
+1 & 2 & -1 \\ 3 & 0 & 1 \\ 0 & 2 & 4
+\end{bmatrix}```
+
+**Résultat** :
+
+\begin{bmatrix}
+1 & 2 & -1 \\ 3 & 0 & 1 \\ 0 & 2 & 4
+\end{bmatrix}
+
+<br />
+
+**Exemple** :
 `$$\left( \frac{p}{q} \right)$$`
 
 **Résultat** :
