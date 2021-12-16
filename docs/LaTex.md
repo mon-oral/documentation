@@ -19,7 +19,8 @@ Pour une présentation en ligne le code LaTeX doit être encadré par des `$`.
 Ceci est une formule : $F(k) = \int_{-\infty}^{\infty} f(x) e^{2\pi i k} dx$
 ```
 
-> Ceci est une formule : $F(k) = \int_{-\infty}^{+\infty} f(x) e^{2\pi i k} dx$
+**Résultat**:
+Ceci est une formule : $F(k) = \int_{-\infty}^{+\infty} f(x) e^{2\pi i k} dx$
  
 
 ### 1.2. Présentation en paragraphe
@@ -235,7 +236,7 @@ Vous pouvez aussi consulter cette [page](http://ftp.ktug.org/tex-archive/info/un
 
 ## 3. Autres exemples
 
-**Exemple** :
+**Exemple**:
 
 ```
 \begin{pmatrix}
@@ -243,7 +244,7 @@ a & b \\ c & d
 \end{pmatrix}
 ```
 
-**Résultat** :
+**Résultat**:
  
 \begin{pmatrix}
 a & b \\ c & d
@@ -251,7 +252,7 @@ a & b \\ c & d
 
 <br />
 
-**Exemple** :
+**Exemple**:
 
 ```
 \begin{bmatrix}
@@ -259,7 +260,7 @@ a & b \\ c & d
 \end{bmatrix}
 ```
 
-**Résultat** :
+**Résultat**:
 
 \begin{bmatrix}
 1 & 2 & -1 \\ 3 & 0 & 1 \\ 0 & 2 & 4
@@ -267,40 +268,40 @@ a & b \\ c & d
 
 <br />
 
-**Exemple** :
+**Exemple**:
 ```
 $$\left( \frac{p}{q} \right)$$
 ```
 
-**Résultat** :
+**Résultat**:
 
 $$\left( \frac{p}{q} \right)$$
 
 <br />
 
-**Exemple** :
+**Exemple**:
 ```
 $$f'(a) = \lim_{x \to a} \frac{f(x) - f(a)}{x - a}$$
 ```
 
-**Résultat** :
+**Résultat**:
 
 $$f'(a) = \lim_{x \to a} \frac{f(x) - f(a)}{x - a}$$
 
 <br />
 
-**Exemple** :
+**Exemple**:
 ```
 $$e^x = \sum_{k=0}^{\infty} \frac{x^k}{k!}$$
 ```
 
-**Résultat** :
+**Résultat**:
 
 $$e^x = \sum_{k=0}^{\infty} \frac{x^k}{k!}$$
 
 <br />
 
-**Exemple** :
+**Exemple**:
 ```
 $$
 \begin{bmatrix}
@@ -313,7 +314,7 @@ $$
 $$
 ```
 
-**Résultat** :
+**Résultat**:
 
 $$
 \begin{bmatrix}
@@ -328,40 +329,40 @@ $$
 <br />
 
 
-**Exemple** :
+**Exemple**:
 ```
 $$K_a  = \frac{{\left[ {H^ +  } \right]\left[ {A^ -  } \right]}}{{\left[ {HA} \right]}}$$
 ```
 
-**Résultat** :
+**Résultat**:
 
 $$K_a  = \frac{{\left[ {H^ +  } \right]\left[ {A^ -  } \right]}}{{\left[ {HA} \right]}}$$
 
 <br />
 
-**Exemple** :
+**Exemple**:
 ```
 $$x = \frac {-b \pm \sqrt{b^2 -4ac}} {2a}$$
 ```
 
-**Résultat** :
+**Résultat**:
 
 $$x = \frac {-b \pm \sqrt{b^2 -4ac}} {2a},$$
 
 <br />
 
-**Exemple** :
+**Exemple**:
 ```
 $$\left\| \frac a b \right\|$$
 ```
 
-**Résultat** :
+**Résultat**:
 
 $$\left\| \frac a b \right\|$$
 
 <br />
 
-**Exemple** :
+**Exemple**:
 ```
 \begin{eqnarray}
   & f={1}/{T} \quad \omega={2\pi}/{T}=2\pi f = \sqrt{{k}/{m}} & \\
@@ -373,7 +374,7 @@ $$\left\| \frac a b \right\|$$
 \end{eqnarray}
 ```
 
-**Résultat** :
+**Résultat**:
 
 \begin{eqnarray}
   & f={1}/{T} \quad \omega={2\pi}/{T}=2\pi f = \sqrt{{k}/{m}} & \\
