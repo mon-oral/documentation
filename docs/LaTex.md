@@ -75,7 +75,6 @@ $$
 > \end{bmatrix}
 > ``` 
 >
->
 > \begin{bmatrix}
 1&0&0\\
 0&1&0\\
@@ -84,39 +83,33 @@ $$
 
 **Exemple 5** :
 
-```
-\begin{equation}
-\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
-\end{equation}
-```
-donne
-
-\begin{equation}
+> ```
+> \begin{equation}
+> \left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
+> \end{equation}
+> ```
+>
+> \begin{equation}
 \left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
 \end{equation}
 
 **Exemple 6** :
 
-```
-\begin{eqnarray}
+> ```
+> \begin{eqnarray}
+> x' &=& &x \sin\phi &+& z \cos\phi \\
+> z' &=& - &x \cos\phi &+& z \sin\phi \\
+> \end{eqnarray}
+>```
+>
+> \begin{eqnarray}
 x' &=& &x \sin\phi &+& z \cos\phi \\
 z' &=& - &x \cos\phi &+& z \sin\phi \\
 \end{eqnarray}
-```
 
- donne
-
-\begin{eqnarray}
-x' &=& &x \sin\phi &+& z \cos\phi \\
-z' &=& - &x \cos\phi &+& z \sin\phi \\
-\end{eqnarray}
-
-
- 
 ## 2. Syntaxe
 
-Les listes ci-dessous ne sont pas exhaustives et elles sont donc amenées à évoluer. Si vous voulez que des éléments soient ajoutés, vous pouvez le signaler.
-
+Les listes ci-dessous ne sont pas exhaustives.
 
 ### 2.1. Mathématiques et Physique
 
@@ -170,8 +163,6 @@ Vous pouvez aussi consulter cette [page](http://ftp.ktug.org/tex-archive/info/un
 | `\cdots`                 | $\cdots$                        |
 | `\vdots`                 | $\vdots$                        |
 | `\ddots`                 | $\ddots$                        |
-
-<br />
  
 ### 2.2. Chimie
  
@@ -195,9 +186,6 @@ Vous pouvez aussi consulter cette [page](http://ftp.ktug.org/tex-archive/info/un
 **Exemple** : `H_2O_{(l)} + H_2O_{(l)} \rightleftharpoons H_3O^{+}_{(aq)} + HO^{-}_{(aq)}`
 
 **Résultat** : $H_2O_{(l)} + H_2O_{(l)} \rightleftharpoons H_3O^{+}_{(aq)} + HO^{-}_{(aq)}$
-
-
-<br />
 
  ### 2.3. Lettres grecques
  
