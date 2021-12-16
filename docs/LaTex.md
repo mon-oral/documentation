@@ -51,16 +51,15 @@ $$
 
 **Exemple 3** : 
 
-```
-\begin{matrix}
-1&0&0\\
-0&1&0\\
-0&0&1\\
-\end{matrix}
-``` 
-donne
-
-\begin{matrix}
+> ```
+> \begin{matrix}
+> 1&0&0\\
+> 0&1&0\\
+> 0&0&1\\
+> \end{matrix}
+> ``` 
+>
+> \begin{matrix}
 1&0&0\\
 0&1&0\\
 0&0&1\\
@@ -68,16 +67,16 @@ donne
 
 **Exemple 4** : 
 
-```
-\begin{bmatrix}
-1&0&0\\
-0&1&0\\
-0&0&1\\
-\end{bmatrix}
-``` 
-donne
-
-\begin{bmatrix}
+> ```
+> \begin{bmatrix}
+> 1&0&0\\
+> 0&1&0\\
+> 0&0&1\\
+> \end{bmatrix}
+> ``` 
+>
+>
+> \begin{bmatrix}
 1&0&0\\
 0&1&0\\
 0&0&1\\
