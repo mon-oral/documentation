@@ -37,6 +37,8 @@ $$F(k) = \int_{-\infty}^{+\infty} f(x) e^{2\pi i k} dx$$
  
 > $$F(k) = \int_{-\infty}^{+\infty} f(x) e^{2\pi i k} dx$$
 
+<br />
+
 **Exemple 2** :
 
 ```
@@ -55,6 +57,8 @@ $$F(k) = \int_{-\infty}^{+\infty} f(x) e^{2\pi i k} dx$$
 \end{aligned}
 $$
 
+<br />
+
 **Exemple 3** : 
 
 ```
@@ -70,6 +74,8 @@ $$
 0&1&0\\
 0&0&1\\
 \end{matrix}
+
+<br />
 
 **Exemple 4** : 
 
@@ -87,6 +93,8 @@ $$
 0&0&1\\
 \end{bmatrix}
 
+<br />
+
 **Exemple 5** :
 
 ```
@@ -98,6 +106,8 @@ $$
 > \begin{equation}
 \left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
 \end{equation}
+
+<br />
 
 **Exemple 6** :
 
@@ -188,6 +198,8 @@ CH_{4(g)} + 20_{2(g)} \rightarrow CO_{2(g)} + 2H_{2}O_{(l)}
 
 > $CH_{4(g)} + 20_{2(g)} \rightarrow CO_{2(g)} + 2H_{2}O_{(l)}$
 
+<br />
+
 **Exemple**:
 
 ```
@@ -196,7 +208,9 @@ H_2O_{(l)} + H_2O_{(l)} \rightleftharpoons H_3O^{+}_{(aq)} + HO^{-}_{(aq)}
 
 > $H_2O_{(l)} + H_2O_{(l)} \rightleftharpoons H_3O^{+}_{(aq)} + HO^{-}_{(aq)}$
 
- ### 2.3. Lettres grecques
+<br />
+
+### 2.3. Lettres grecques
  
  
 | syntaxe             | réultat                       |
@@ -368,9 +382,7 @@ $$\left\| \frac a b \right\|$$
 \end{eqnarray}
 ```
 
-**Résultat**:
-
-\begin{eqnarray}
+>\begin{eqnarray}
   & f={1}/{T} \quad \omega={2\pi}/{T}=2\pi f = \sqrt{{k}/{m}} & \\
   & \left\{ \begin{array}{l}
   x = A \cos\phi = A \cos \omega t,    \\
