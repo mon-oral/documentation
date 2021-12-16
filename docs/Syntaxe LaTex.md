@@ -1,3 +1,5 @@
+# Syntaxe $\LaTeX$
+
 [$\LaTeX$](https://fr.wikipedia.org/wiki/LaTeX) est, en premier lieu, un système de composition de documents mais sa syntaxe permet aussi de représenter des écritures scientifiques plus ou moins complexes (notations, équations, systèmes d'équations...).
 
 L'intégration et l'écriture du code $\LaTeX$ sont simples  et il est inutile de maitriser l'ensemble de l'environnement $\LaTeX$ pour pouvoir utiliser sa syntaxe. La maitrise de quelques règles suffit pour pouvoir écrire des expressions mathématiques, physiques ou chimiques.
