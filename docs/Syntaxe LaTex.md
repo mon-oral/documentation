@@ -195,7 +195,7 @@ Vous pouvez aussi consulter cette [page](http://ftp.ktug.org/tex-archive/info/un
 **Exemple**:
 
 ```
-CH_{4(g)} + 20_{2(g)} \rightarrow CO_{2(g)} + 2H_{2}O_{(l)}
+$CH_{4(g)} + 20_{2(g)} \rightarrow CO_{2(g)} + 2H_{2}O_{(l)}$
 ```
 
 > $CH_{4(g)} + 20_{2(g)} \rightarrow CO_{2(g)} + 2H_{2}O_{(l)}$
@@ -205,7 +205,7 @@ CH_{4(g)} + 20_{2(g)} \rightarrow CO_{2(g)} + 2H_{2}O_{(l)}
 **Exemple**:
 
 ```
-H_2O_{(l)} + H_2O_{(l)} \rightleftharpoons H_3O^{+}_{(aq)} + HO^{-}_{(aq)}
+$H_2O_{(l)} + H_2O_{(l)} \rightleftharpoons H_3O^{+}_{(aq)} + HO^{-}_{(aq)}$
 ```
 
 > $H_2O_{(l)} + H_2O_{(l)} \rightleftharpoons H_3O^{+}_{(aq)} + HO^{-}_{(aq)}$
