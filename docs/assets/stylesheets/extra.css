@@ -42,7 +42,6 @@
     word-break: break-word;
     font-family: SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace;
 }
-}
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     margin-bottom: 0.5rem;
@@ -50,20 +49,20 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     line-height: 1.2;
 }
 
-h1 {
+.md-typeset h1 {
     color: #227dc7;
     font-size: 1.3rem;
     text-transform: uppercase;
 }
 
 
-h2 {
+.md-typeset h2 {
     color: #227dc7;
     font-size: 1rem;
     text-transform: uppercase;
 }
 
-h3 {
+.md-typeset h3 {
 	color:#227dc7;
 	font-size:0.8rem;
 	text-align:center;
