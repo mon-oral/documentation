@@ -52,6 +52,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     color: #227dc7;
     font-size: 1.3rem;
     text-transform: uppercase;
+    font-weight: 300;    
 }
 
 
@@ -59,12 +60,14 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     color: #227dc7;
     font-size: 1rem;
     text-transform: uppercase;
+    font-weight: 300;    
 }
 
 .md-typeset h3 {
     color:#227dc7;
     font-size:0.8rem;
     line-height: 1.2rem;
+    font-weight: 300;    
 }
 
 .md-typeset {
