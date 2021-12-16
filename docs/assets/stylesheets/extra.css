@@ -66,3 +66,10 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     font-size:0.8rem;
     line-height: 1.2rem;
 }
+
+.md-typeset {
+    -webkit-print-color-adjust: exact;
+    color-adjust: exact;
+    font-size: .7rem;
+    line-height: 1.4;
+}
