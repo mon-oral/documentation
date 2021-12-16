@@ -29,7 +29,9 @@ Pour une présentation en paragraphe, le code LaTeX doit être encadré part des
 
 **Exemple 1** :
 
-> `$$F(k) = \int_{-\infty}^{+\infty} f(x) e^{2\pi i k} dx$$`
+> ```
+> $$F(k) = \int_{-\infty}^{+\infty} f(x) e^{2\pi i k} dx$$
+> ```
 > 
 > $$F(k) = \int_{-\infty}^{+\infty} f(x) e^{2\pi i k} dx$$
 
@@ -235,9 +237,11 @@ Vous pouvez aussi consulter cette [page](http://ftp.ktug.org/tex-archive/info/un
 
 **Exemple** :
 
-```\begin{pmatrix}
+```
+\begin{pmatrix}
 a & b \\ c & d
-\end{pmatrix}```
+\end{pmatrix}
+```
 
 **Résultat** :
  
@@ -249,9 +253,11 @@ a & b \\ c & d
 
 **Exemple** :
 
-```\begin{bmatrix}
+```
+\begin{bmatrix}
 1 & 2 & -1 \\ 3 & 0 & 1 \\ 0 & 2 & 4
-\end{bmatrix}```
+\end{bmatrix}
+```
 
 **Résultat** :
 
@@ -262,7 +268,9 @@ a & b \\ c & d
 <br />
 
 **Exemple** :
-`$$\left( \frac{p}{q} \right)$$`
+```
+$$\left( \frac{p}{q} \right)$$
+```
 
 **Résultat** :
 
@@ -271,7 +279,9 @@ $$\left( \frac{p}{q} \right)$$
 <br />
 
 **Exemple** :
-`$$f'(a) = \lim_{x \to a} \frac{f(x) - f(a)}{x - a}$$`
+```
+$$f'(a) = \lim_{x \to a} \frac{f(x) - f(a)}{x - a}$$
+```
 
 **Résultat** :
 
@@ -280,7 +290,9 @@ $$f'(a) = \lim_{x \to a} \frac{f(x) - f(a)}{x - a}$$
 <br />
 
 **Exemple** :
-`$$e^x = \sum_{k=0}^{\infty} \frac{x^k}{k!}$$`
+```
+$$e^x = \sum_{k=0}^{\infty} \frac{x^k}{k!}$$
+```
 
 **Résultat** :
 
@@ -317,7 +329,9 @@ $$
 
 
 **Exemple** :
-`$$K_a  = \frac{{\left[ {H^ +  } \right]\left[ {A^ -  } \right]}}{{\left[ {HA} \right]}}$$`
+```
+$$K_a  = \frac{{\left[ {H^ +  } \right]\left[ {A^ -  } \right]}}{{\left[ {HA} \right]}}$$
+```
 
 **Résultat** :
 
@@ -326,7 +340,9 @@ $$K_a  = \frac{{\left[ {H^ +  } \right]\left[ {A^ -  } \right]}}{{\left[ {HA} \r
 <br />
 
 **Exemple** :
-`$$x = \frac {-b \pm \sqrt{b^2 -4ac}} {2a}$$`
+```
+$$x = \frac {-b \pm \sqrt{b^2 -4ac}} {2a}$$
+```
 
 **Résultat** :
 
@@ -335,7 +351,9 @@ $$x = \frac {-b \pm \sqrt{b^2 -4ac}} {2a},$$
 <br />
 
 **Exemple** :
-`$$\left\| \frac a b \right\|$$`
+```
+$$\left\| \frac a b \right\|$$
+```
 
 **Résultat** :
 
