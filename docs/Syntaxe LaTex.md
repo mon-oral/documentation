@@ -7,11 +7,11 @@ L'intégration et l'écriture du code $\LaTeX$ sont simples  et il est inutile d
 Vous trouverez ci-dessous une synthèse des éléments principaux à connaitre.
 
 
-## 1. Déclaration du code Latex
+## A. Déclaration du code Latex
 
 Deux cas se présentent. Soit on souhaite écrire une formule ou une écriture scientifique simple au sein d'une ligne de texte (présentation en ligne), soit on souhaite présenter l'écriture scientifique centrée dans un nouveau paragraphe (présentation en paragraphe).
 
-### 1.1. Présentation en ligne
+### 1. Présentation en ligne
 
 Pour une présentation en ligne le code LaTeX doit être encadré par des `$`.
 
@@ -24,7 +24,7 @@ Ceci est une formule : $F(k) = \int_{-\infty}^{\infty} f(x) e^{2\pi i k} dx$
 > Ceci est une formule : $F(k) = \int_{-\infty}^{+\infty} f(x) e^{2\pi i k} dx$
  
 
-### 1.2. Présentation en paragraphe
+### 2. Présentation en paragraphe
 
 Pour une présentation en paragraphe, le code LaTeX doit être encadré part des `$$` ou par `\begin{xxx} ... \end{xxx}` (avec xxx qui peut être `aligned`, `matrix`, `bmatrix`, `pmatrix`, `equation`, `eqnarray`...).
 
@@ -123,11 +123,11 @@ x' &=& &x \sin\phi &+& z \cos\phi \\
 z' &=& - &x \cos\phi &+& z \sin\phi \\
 \end{eqnarray}
 
-## 2. Syntaxe
+## B. Syntaxe
 
 Les listes ci-dessous ne sont pas exhaustives.
 
-### 2.1. Mathématiques et Physique
+### 1. Mathématiques et Physique
 
 Vous pouvez aussi consulter cette [page](http://ftp.ktug.org/tex-archive/info/undergradmath/undergradmath.pdf).
  
@@ -179,7 +179,7 @@ Vous pouvez aussi consulter cette [page](http://ftp.ktug.org/tex-archive/info/un
 | `\vdots`                 | $\vdots$                        |
 | `\ddots`                 | $\ddots$                        |
  
-### 2.2. Chimie
+### 2. Chimie
  
 | syntaxe                        | résultat                                      |
 |--------------------- |----------------------------- |
@@ -210,7 +210,7 @@ H_2O_{(l)} + H_2O_{(l)} \rightleftharpoons H_3O^{+}_{(aq)} + HO^{-}_{(aq)}
 
 <br />
 
-### 2.3. Lettres grecques
+### 3. Lettres grecques
  
  
 | syntaxe             | réultat                       |
@@ -257,7 +257,7 @@ H_2O_{(l)} + H_2O_{(l)} \rightleftharpoons H_3O^{+}_{(aq)} + HO^{-}_{(aq)}
 | `\Omega`        | $\Omega$            |
 
 
-## 3. Autres exemples
+## C. Autres exemples
 
 **Exemple**:
 
