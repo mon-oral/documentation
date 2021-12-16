@@ -13,7 +13,7 @@ Deux cas se présentent. Soit on souhaite écrire une formule ou une écriture s
 
 Pour une présentation en ligne le code LaTeX doit être encadré par des `$`.
 
-**Exemple** :
+**Exemple**:
 
 `Ceci est une formule : $F(k) = \int_{-\infty}^{\infty} f(x) e^{2\pi i k} dx$` donne 
 
