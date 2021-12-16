@@ -40,3 +40,30 @@
     word-break: break-word;
     color: #00c753
 }
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+}
+
+h1 {
+    color: #227dc7;
+    font-size: 1.3rem;
+    text-transform: uppercase;
+}
+
+
+h2 {
+    color: #227dc7;
+    font-size: 1rem;
+    text-transform: uppercase;
+}
+
+h3 {
+	color:#227dc7;
+	font-size:0.8rem;
+	text-align:center;
+	color:silver;
+	line-height: 1.2rem;
+}
