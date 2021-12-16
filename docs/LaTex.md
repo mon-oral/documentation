@@ -24,7 +24,6 @@ Pour une présentation en paragraphe, le code LaTeX doit être encadré part des
 **Exemple 1** :
 
 `$$F(k) = \int_{-\infty}^{+\infty} f(x) e^{2\pi i k} dx$$` donne :
-
 $$F(k) = \int_{-\infty}^{+\infty} f(x) e^{2\pi i k} dx$$
 
 **Exemple 2** :
@@ -37,6 +36,7 @@ $$F(k) = \int_{-\infty}^{+\infty} f(x) e^{2\pi i k} dx$$
 \end{aligned}
 ```
 donne
+
 $$
 \begin{aligned}
 \dot{x} & = \sigma(y-x) \\
