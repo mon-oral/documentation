@@ -63,9 +63,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 }
 
 .md-typeset h3 {
-	color:#227dc7;
-	font-size:0.8rem;
-	text-align:center;
-	color:silver;
-	line-height: 1.2rem;
+    color:#227dc7;
+    font-size:0.8rem;
+    line-height: 1.2rem;
 }
